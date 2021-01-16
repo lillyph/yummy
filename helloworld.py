@@ -1,3 +1,5 @@
+#WAAHOOO BOYS YEAH I GOT MY FIRST GAME DONE IT ONLY TOOK ME LIKE AN HOUR BUT THATS OKAY IT WAS STILL HARD I'M JSUT TOO GOOD SUCC ON THAT
+
 board = ['1','2','3','4','5','6','7','8','9']
 
 count = 0
@@ -22,6 +24,7 @@ for i in range(69):
         count += 1
     else:
         print('That spot is not available.')
+        continue
     if count >= 5:
         if board[0] == board[1] and board[1] == board[2]:
             boardPrint(board)
