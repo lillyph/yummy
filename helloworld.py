@@ -13,7 +13,7 @@ boardPrint(board)
 
 turn = input('\nWhich team will go first, x or o? ')
 
-for i in range(20):
+for i in range(69):
     boardPrint(board)
     print(turn, ', it is your turn.')
     a = int(input("where would you like to move?\n"))
