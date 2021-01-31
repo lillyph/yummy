@@ -6,7 +6,7 @@ board = ['1','2','3','4','5','6','7','8','9']
 
 count = 0
 
-q = true
+q = True
 
 i = 0
 
@@ -29,7 +29,7 @@ def endGame():
     else:
         print('the computer was not even a smart computer why are you so bad')
 
-while q == true:
+while q == True:
     time.sleep(1)
     boardPrint(board)
     time.sleep(1)
