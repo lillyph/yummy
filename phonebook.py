@@ -9,7 +9,7 @@ for b in range(a):
     contact.append(phone)
     book.append(contact)
 
-print('Your contact book is now complete!')
+print('Your contact book is now complete! yeet')
 
 answer = 'y'
 
